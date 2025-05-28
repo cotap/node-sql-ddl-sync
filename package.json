@@ -10,7 +10,7 @@
 		"postgres",
 		"sqlite"
 	],
-	"version": "0.3.13",
+	"version": "0.3.14",
 	"license": "MIT",
 	"repository": "http://github.com/dresende/node-sql-ddl-sync.git",
 	"main": "./lib/index",
@@ -22,7 +22,7 @@
 	},
 	"analyse": false,
 	"dependencies": {
-		"lodash": "4.17.4"
+		"lodash": "4.17.21"
 	},
 	"devDependencies": {
 		"mocha": "3.4.2",
